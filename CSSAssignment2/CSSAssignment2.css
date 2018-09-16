@@ -1,0 +1,57 @@
+tr:hover  {
+	Background-color: #25E8F2;
+}
+
+table, th, td {
+	border-color: #000000;
+	border-style: solid;
+}
+
+th, td {
+	padding: 15px;
+	text-align: center;
+}
+
+tr.two4:hover  {
+	Background-color: #D8BFD8;
+}
+
+ol.one {
+  list-style-type: upper-roman;
+  border-width: 5px;
+  border-style: dotted;
+  border-color:	#4B0082;
+  background-color: #FFA500;
+  text-align: left;
+}
+
+ul.three {
+  list-style-type: circle;
+  border: 4px;
+  border-style: dashed;
+  border-color:	#228B22;
+  background-color: #FF0000;
+  text-align: left;
+  border-width: 5px;
+}
+th.one {
+  border-bottom-style: solid;
+  border-color: #000000;
+  border-bottom-width: 5px;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+ol.two {
+    text-align: left;
+}
+
+td.uno {
+  padding:20;
+}
+
+table.border {
+  border: 8px;
+  border-style: ridge;
+  border-color: #00FF00;
+}
