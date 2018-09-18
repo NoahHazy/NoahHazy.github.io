@@ -54,4 +54,6 @@ table.border {
   border: 8px;
   border-style: ridge;
   border-color: #00FF00;
+	margin-right: auto;
+  	margin-left: auto;
 }
