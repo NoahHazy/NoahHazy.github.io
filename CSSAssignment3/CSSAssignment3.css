@@ -1,0 +1,57 @@
+Frame {
+	margin-right: auto;
+	margin-left: auto;
+	padding: 30px;
+}
+
+div {
+  width: 590px;
+  height: 370px;
+  background-color: #556B2F;
+  text-align: center;
+  padding-top: 30;
+	display: inline-block;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#Monster {
+	background-color: #808000;
+;
+}
+
+#Egypt {
+	background-color: #c2b280;
+}
+
+#Africa {
+	background-color: #FF8C00;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#Ness {
+	background-color: #2F4F4F;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#Norway {
+	background-color: #A9A9A9;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+h2.White {
+	color: #FFFFFF;
+}
+
+figcaption.White{
+	color: #FFFFFF;
+}
+
+body {
+  background-image: url("Big Black.jpg");
+  background-repeat: repeat;
+  background-attachment: fixed;
+}
