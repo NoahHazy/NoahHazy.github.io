@@ -46,6 +46,10 @@ figcaption.White{
 	color: #FFFFFF;
 }
 
+p.White{
+	color: #FFFFFF;
+}
+
 body {
   background-image: url("Big Black.jpg");
   background-repeat: repeat;
