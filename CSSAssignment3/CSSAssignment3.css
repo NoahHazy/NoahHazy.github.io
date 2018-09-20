@@ -1,7 +1,8 @@
 Frame {
-	margin-right: auto;
-	margin-left: auto;
-	padding: 30px;
+}
+
+body{
+	text-align: center;
 }
 
 div {
@@ -26,20 +27,17 @@ div {
 
 #Africa {
 	background-color: #FF8C00;
-	margin-right: auto;
-	margin-left: auto;
+
 }
 
 #Ness {
 	background-color: #2F4F4F;
-	margin-right: auto;
-	margin-left: auto;
+
 }
 
 #Norway {
 	background-color: #A9A9A9;
-	margin-right: auto;
-	margin-left: auto;
+
 }
 
 h2.White {
