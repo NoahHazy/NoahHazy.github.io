@@ -1,0 +1,65 @@
+Frame {
+}
+
+body { 
+	text-align: center;
+}
+
+div {
+  width: 590px;
+  height: 370px;
+  background-color: #4B0082;
+  text-align: center;
+  padding-top: 30;
+	display:inline-block;
+
+}
+
+
+
+#Monster {
+	background-color: #808000;
+;
+}
+
+#Egypt {
+	background-color: #c2b280;
+}
+
+#Slade {
+	background-color: #b36b00;
+}
+
+#Denzel {
+	background-color: #000000;
+}
+
+#Ragnar {
+	background-color: #646464;
+}
+
+#Sonic {
+	background-color: #0000cd;
+}
+
+#Prime {
+	background-color: #ff6347;
+}
+
+#Maul {
+	background-color: #990000;
+}
+
+h2.White {
+	color: #FFFFFF;
+}
+
+figcaption.White{
+	color: #FFFFFF;
+}
+
+body {
+  background-image: url("Big Black.jpg");
+  background-repeat: repeat;
+  background-attachment: fixed;
+}
