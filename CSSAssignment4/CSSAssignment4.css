@@ -1,0 +1,50 @@
+body {
+  width: 940px;
+  margin: 0 auto;
+  text-align: center;
+  background-color: #FFFFFF;
+}
+
+#Svarthol {
+  background-color: #000000;
+  padding: 10px;
+  margin: 10px;
+}
+
+#Wolverine {
+  background-color: #191919;
+  padding: 15px;
+  margin: 10px;
+  width: 418px;
+  display: inline-block;
+}
+
+#Sky {
+background-color: #343637;
+  padding: 10px;
+  margin: 10px;
+  width: 270px;
+  display: inline-block;
+}
+
+#Metal {
+background-color:#424242 ;
+  padding: 10px;
+  margin: 10px;
+  width: 190px;
+  display: inline-block;
+}
+
+#Animalia {
+background-color: #7c7c7c;
+  padding: 10px;
+  margin: 10px;
+  width: 113px;
+  display: inline-block;
+}
+
+
+#White {
+	color: #FFFFFF;
+  font-family: "Times New Roman", Times, serif;
+}
