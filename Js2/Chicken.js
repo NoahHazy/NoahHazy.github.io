@@ -1,27 +1,53 @@
-function Maths(a, b)
+function addme (a, b)
 {
-	var addme = a + b;
-	var subme = a - b;
-	var multme = a * b;
-	var divime = a / b;
-
-	var me = [addme, subme, multme, divime];
-	return me
+	var sum = a + b;
+	return sum;
 }
 
-function Rand(me)
+function subme (c, d)
 {
-
-return me[Math.floor(Math.random() * me.length)];
-
+	var difference = c - d;
+	return difference;
 }
 
-var Calc = Maths(9 , 6);
+function multme (e, f)
+{
+	var product = e * f;
+	return product;
+}
+
+function divime (g, h)
+{
+	var quotient = g / h;
+	return quotient;
+}
+
+var r = function calcR (n)
+{
+	var t = Math.floor(Math.random() * n);
+	return t;
+}
+
+var m = r (100);
+
+var r2 = function calcR2 (n)
+{
+	var t2 = Math.floor(Math.random() * n);
+	return t2;
+}
+
+var m2 = r2 (100);
+
+var s = addme (m, m2);
+var d = subme (m, m2);
+var p = multme (m, m2);
+var q = divime (m, m2);
+
 var a = document.getElementById("First");
-	a.textContent = Rand(Calc);
+	a.textContent = "Addition: " + s;
 var a = document.getElementById("Second");
-	a.textContent = Rand(Calc);
+	a.textContent = "Subtraction: " + d;
 var a = document.getElementById("Third");
-	a.textContent = Rand(Calc);
+	a.textContent = "Multiplication: " + p;
 var a = document.getElementById("Fourth");
-	a.textContent = Rand(Calc);
+	a.textContent = "Division: " + q;
