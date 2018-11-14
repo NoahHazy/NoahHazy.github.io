@@ -4,7 +4,6 @@ function Doo (home, visitor, homeScore, visitorScore)
     this.visitor = visitor;
     this.homeScore = homeScore;
     this.visitorScore = visitorScore;
-
 }
 
 	
